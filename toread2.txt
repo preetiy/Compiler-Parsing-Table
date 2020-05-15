@@ -1,0 +1,7 @@
+S=Aa
+S=bBc
+S=Bc
+S=bBa
+A=d
+B=d
+
